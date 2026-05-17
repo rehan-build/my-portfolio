@@ -145,7 +145,7 @@ The global design tokens are defined in `app/globals.css`:
 **Rehan Ali** — Digital Marketing Specialist
 
 - 📧 Email: [rehanansari26353@gmail.com](mailto:rehanansari26353@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/rehanali](https://linkedin.com/in/rehanali)
+- 💼 LinkedIn: [linkedin.com/in/rehan-ali-digital-marketer](https://www.linkedin.com/in/rehan-ali-digital-marketer/)
 
 ---
 

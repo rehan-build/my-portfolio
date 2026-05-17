@@ -5,14 +5,14 @@ const contactItems = [
   {
     icon: "✉️",
     label: "Email",
-    value: "hello@rehanali.com",
-    href: "mailto:hello@rehanali.com",
+    value: "rehanansari26353@gmail.com",
+    href: "mailto:rehanansari26353@gmail.com",
   },
   {
     icon: "💼",
     label: "LinkedIn",
-    value: "/in/rehanali-ads",
-    href: "https://linkedin.com/in/rehanali-ads",
+    value: "/in/rehan-ali-digital-marketer",
+    href: "https://www.linkedin.com/in/rehan-ali-digital-marketer/",
   },
   {
     icon: "📍",

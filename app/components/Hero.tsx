@@ -56,9 +56,11 @@ export default function Hero() {
 
           {/* Right — Visual */}
           <div className="hero-visual">
-            <div className="hero-avatar-placeholder" aria-label="Rehan Ali">
-              👤
-            </div>
+            <img
+              src="/rehan.jpg"
+              alt="Rehan Ali"
+              className="hero-avatar"
+            />
             <div className="hero-location">
               <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
                 <path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0118 0z" />
@@ -68,22 +70,14 @@ export default function Hero() {
             </div>
             <div className="hero-social">
               {/* LinkedIn */}
-              <a href="https://linkedin.com/in/rehanali-ads" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn">
+              <a href="https://www.linkedin.com/in/rehan-ali-digital-marketer/" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn">
                 <svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor">
                   <path d="M16 8a6 6 0 016 6v7h-4v-7a2 2 0 00-2-2 2 2 0 00-2 2v7h-4v-7a6 6 0 016-6zM2 9h4v12H2z" />
                   <circle cx="4" cy="4" r="2" />
                 </svg>
               </a>
-              {/* Instagram */}
-              <a href="#" target="_blank" rel="noopener noreferrer" aria-label="Instagram">
-                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
-                  <rect x="2" y="2" width="20" height="20" rx="5" ry="5" />
-                  <circle cx="12" cy="12" r="4" />
-                  <circle cx="17.5" cy="6.5" r="0.5" fill="currentColor" />
-                </svg>
-              </a>
               {/* Email */}
-              <a href="mailto:hello@rehanali.com" aria-label="Email">
+              <a href="mailto:rehanansari26353@gmail.com" aria-label="Email">
                 <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
                   <path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z" />
                   <polyline points="22,6 12,13 2,6" />

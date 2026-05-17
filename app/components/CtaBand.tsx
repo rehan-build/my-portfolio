@@ -16,7 +16,7 @@ export default function CtaBand() {
               <path d="M5 12h14M12 5l7 7-7 7" />
             </svg>
           </a>
-          <a href="mailto:hello@rehanali.com" className="btn btn-outline">
+          <a href="mailto:rehanansari26353@gmail.com" className="btn btn-outline">
             Email Me
           </a>
         </div>
